@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Boot</key>
+	<dict>
+		<key>Arguments</key>
+		<string>-v</string>
+		<key>DefaultVolume</key>
+		<string>DracoHD</string>
+		<key>Log</key>
+		<true/>
+		<key>Secure</key>
+		<false/>
+		<key>Timeout</key>
+		<integer>5</integer>
+	</dict>
+	<key>GUI</key>
+	<dict>
+		<key>Scan</key>
+		<dict>
+			<key>Entries</key>
+			<true/>
+			<key>Tool</key>
+			<true/>
+		</dict>
+		<key>ScreenResolution</key>
+		<string>2560x1440</string>
+		<key>Theme</key>
+		<string>embedded</string>
+	</dict>
+	<key>RtVariables</key>
+	<dict>
+		<key>BooterConfig</key>
+		<string>0x28</string>
+		<key>CsrActiveConfig</key>
+		<string>0x3</string>
+	</dict>
+	<key>SMBIOS</key>
+	<dict>
+		<key>BiosReleaseDate</key>
+		<string>01/22/10</string>
+		<key>BiosVendor</key>
+		<string>Apple Inc.</string>
+		<key>BiosVersion</key>
+		<string>MP41.88Z.0081.B08.1001221313</string>
+		<key>Board-ID</key>
+		<string>Mac-F221BEC8</string>
+		<key>BoardManufacturer</key>
+		<string>Apple Inc.</string>
+		<key>BoardSerialNumber</key>
+		<string>CT9402ZF4PDA37EP</string>
+		<key>BoardType</key>
+		<integer>11</integer>
+		<key>BoardVersion</key>
+		<string>1.4</string>
+		<key>ChassisAssetTag</key>
+		<string>Pro-Enclosure</string>
+		<key>ChassisManufacturer</key>
+		<string>Apple Inc.</string>
+		<key>ChassisType</key>
+		<string>0x07</string>
+		<key>Family</key>
+		<string>MacPro</string>
+		<key>FirmwareFeatures</key>
+		<string>0xE907F537</string>
+		<key>FirmwareFeaturesMask</key>
+		<string>0xFFFFFFFF</string>
+		<key>LocationInChassis</key>
+		<string>Part Component</string>
+		<key>Manufacturer</key>
+		<string>Apple Inc.</string>
+		<key>Mobile</key>
+		<false/>
+		<key>PlatformFeature</key>
+		<string>0xFFFF</string>
+		<key>ProductName</key>
+		<string>MacPro4,1</string>
+		<key>SerialNumber</key>
+		<string>CT9402ZF4PD</string>
+		<key>SmUUID</key>
+		<string>D75684D3-A0DE-4DC1-B5FF-40AC0D210D5B</string>
+		<key>Version</key>
+		<string>1.4</string>
+	</dict>
+	<key>SystemParameters</key>
+	<dict>
+		<key>CustomUUID</key>
+		<string>26F84650-5559-45A7-82D1-CCF72356F3ED</string>
+		<key>InjectKexts</key>
+		<string>Yes</string>
+		<key>InjectSystemID</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
