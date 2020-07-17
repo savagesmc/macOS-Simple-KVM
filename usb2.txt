@@ -1,0 +1,26 @@
+Bus 002 Device 006: ID 046b:ff10 American Megatrends, Inc. Virtual Keyboard and Mouse
+Bus 002 Device 004: ID 046b:ff01 American Megatrends, Inc. 
+Bus 002 Device 007: ID 0c45:7403 Microdia Foot Switch
+Bus 002 Device 009: ID 0c45:7403 Microdia Foot Switch
+Bus 002 Device 019: ID 046d:081a Logitech, Inc. Webcam C260
+Bus 002 Device 018: ID 1a40:0101 Terminus Technology Inc. Hub
+Bus 002 Device 016: ID 046d:c52b Logitech, Inc. Unifying Receiver
+Bus 002 Device 015: ID 1b1c:1b2d Corsair 
+Bus 002 Device 014: ID 1a40:0201 Terminus Technology Inc. FE 2.1 7-port Hub
+Bus 002 Device 005: ID 1a40:0101 Terminus Technology Inc. Hub
+Bus 002 Device 003: ID 1a40:0101 Terminus Technology Inc. Hub
+Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 001 Device 003: ID 0a5c:21e8 Broadcom Corp. BCM20702A0 Bluetooth 4.0
+Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 004 Device 003: ID 05e3:0612 Genesys Logic, Inc. Hub
+Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 003 Device 007: ID 0bda:5411 Realtek Semiconductor Corp. 4-Port USB 2.0 Hub
+Bus 003 Device 006: ID 0bda:5411 Realtek Semiconductor Corp. 
+Bus 003 Device 005: ID 0403:6010 Future Technology Devices International, Ltd FT2232C/D/H Dual UART/FIFO IC
+Bus 003 Device 003: ID 0bda:5411 Realtek Semiconductor Corp. 4-Port USB 2.0 Hub
+Bus 003 Device 012: ID 1f75:0918 Innostor Technology Corporation 
+Bus 003 Device 011: ID 2109:2813 VIA Labs, Inc. USB2.0 Hub
+Bus 003 Device 010: ID 05e3:0610 Genesys Logic, Inc. 4-port hub
+Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
